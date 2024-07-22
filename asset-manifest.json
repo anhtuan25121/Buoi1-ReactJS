@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/github.io/Buoi1-ReactJS/static/css/main.b769e4e6.css",
+    "main.js": "/github.io/Buoi1-ReactJS/static/js/main.0a1bdded.js",
+    "index.html": "/github.io/Buoi1-ReactJS/index.html",
+    "main.b769e4e6.css.map": "/github.io/Buoi1-ReactJS/static/css/main.b769e4e6.css.map",
+    "main.0a1bdded.js.map": "/github.io/Buoi1-ReactJS/static/js/main.0a1bdded.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b769e4e6.css",
+    "static/js/main.0a1bdded.js"
+  ]
+}
