@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/github.io/Buoi1-ReactJS/static/css/main.b769e4e6.css",
-    "main.js": "/github.io/Buoi1-ReactJS/static/js/main.0a1bdded.js",
-    "index.html": "/github.io/Buoi1-ReactJS/index.html",
-    "main.b769e4e6.css.map": "/github.io/Buoi1-ReactJS/static/css/main.b769e4e6.css.map",
-    "main.0a1bdded.js.map": "/github.io/Buoi1-ReactJS/static/js/main.0a1bdded.js.map"
+    "main.css": "/Buoi1-ReactJS/static/css/main.b769e4e6.css",
+    "main.js": "/Buoi1-ReactJS/static/js/main.9a699b6a.js",
+    "index.html": "/Buoi1-ReactJS/index.html",
+    "main.b769e4e6.css.map": "/Buoi1-ReactJS/static/css/main.b769e4e6.css.map",
+    "main.9a699b6a.js.map": "/Buoi1-ReactJS/static/js/main.9a699b6a.js.map"
   },
   "entrypoints": [
     "static/css/main.b769e4e6.css",
-    "static/js/main.0a1bdded.js"
+    "static/js/main.9a699b6a.js"
   ]
 }
