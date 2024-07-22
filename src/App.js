@@ -9,10 +9,10 @@ function App() {
     return (
 
         <div>
-            {/* <Header />
+            <Header />
             <Main1 />
             <Main2 />
-            <Footer name1={name} age1={age} /> */}
+            <Footer name1={name} age1={age} />
             <Hook1 />
             <Hook2 />
         </div>
